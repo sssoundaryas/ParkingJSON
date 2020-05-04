@@ -1,7 +1,7 @@
 
-# ParkingJSON: An Open Parking Standard for Smart Cities
+# ParkingJSON: An Open Standard Format for Parking in Smart Cities
 
-This repository contains examples of our parking data standard, ParkingJSON, developed at the University of Southern California in partnership with the City of Los Angeles. To learn more abour our parking standard, please refer to the paper, which is available inside the document folder.
+This repository contains examples of an open standard format for parking availability data, ParkingJSON, developed at the University of Southern California in partnership with the City of Los Angeles. To learn more abour our parking standard, please refer to the paper, which is available inside the document folder.
 
 ## Examples
 We provide multiple examples (check example_JSON_files folder) representing different scenarios.
